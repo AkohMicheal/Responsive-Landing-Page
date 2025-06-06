@@ -8,7 +8,7 @@ import Contact from './pages/Contact'
 import Blog from './pages/Blog'
 import BlogDetails from './Pages/Blog/BlogDetails'
 import Courses from './pages/Courses'
-import CourseDetails from './pages/Courses/[slug]'
+import CourseDetails from './Pages/Courses/CourseDetails'
 
 function App() {
   return (
