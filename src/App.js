@@ -6,7 +6,7 @@ import Home from './pages/Home'
 import About from './pages/About'
 import Contact from './pages/Contact'
 import Blog from './pages/Blog'
-import BlogDetails from './pages/Blog/[id]'
+import BlogDetails from './Pages/Blog/BlogDetails'
 import Courses from './pages/Courses'
 import CourseDetails from './pages/Courses/[slug]'
 
