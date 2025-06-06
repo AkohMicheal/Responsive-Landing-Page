@@ -1,15 +1,6 @@
-// src/pages/Home/index.jsx
-import React from 'react'
-import Hero from './Hero'
-import Features from './Features'
+// src/Pages/Home.js
+import React from 'react';
 
-const Home = () => {
-  return (
-    <>
-      <Hero />
-      <Features />
-    </>
-  )
+export default function Home() {
+  return <div>Home Page</div>;
 }
-
-export default Home

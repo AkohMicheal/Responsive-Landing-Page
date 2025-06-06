@@ -2,12 +2,12 @@
 import React from 'react'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import Layout from './components/Layout'
-import Home from './pages/Home'
-import About from './pages/About'
-import Contact from './pages/Contact'
-import Blog from './pages/Blog'
+import Home from './Pages/Home'
+import About from './Pages/About'
+import Contact from './Pages/Contact'
+import Blog from './Pages/Blog'
 import BlogDetails from './Pages/Blog/BlogDetails'
-import Courses from './pages/Courses'
+import Courses from './Pages/Courses'
 import CourseDetails from './Pages/Courses/CourseDetails'
 
 function App() {
